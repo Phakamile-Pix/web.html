@@ -1,0 +1,56 @@
+.beauty{
+color:purple;
+}
+body { 
+font-family:sans-serif;
+color:#777777;
+line-height: 50px;
+}
+.float{
+width:50%;
+float:left;
+}
+.img{
+width:50%;
+padding-left:25;
+}
+.btn{
+color: White;
+border-radius:10px;
+padding-left:4px;
+background-color:#ff0000;
+text-decoration:none;
+border:2px dotted white ;
+}
+h1{ 
+font-size:3em;
+}
+.contain{
+padding-left:5px;
+display: inline-block;
+}
+.do{
+color: yellow ;
+border:2px dashed white ;
+}
+.d{
+color:blue;
+border:2px solid white ;
+}
+.experience{
+padding:20px;
+margin:30px;
+background-color:rgb(238,251,255);
+border-radius:20px;
+}
+.b{
+padding-right:20px;
+}
+.experience-item{
+padding:10px;
+border-left:1px solid rgba(137,130,247,.2);
+}
+h3 { 
+background-color:grey;
+color:silver;
+}
